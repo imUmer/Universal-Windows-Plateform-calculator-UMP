@@ -7,11 +7,11 @@
 ### how to clone a project 
 
 1. Click on the `Code ▼` button (Green Colored ) and copy the HTTPS link 
-2. Go to your and local directory(folder) where you want to clone it
+2. Go to your any local directory(folder) where you want to clone it
 3. open the command promnt from that directory
 4. type the command " git clone [paste the copied link] " and press enter 
-5. once your project is downloaded you can now open in you visual studio for working 
-6. that's it
+5. once your project is downloaded you can now open in your visual studio. 
+6. that's it Enjoy🙂
 
 ## Calculator UI
 
