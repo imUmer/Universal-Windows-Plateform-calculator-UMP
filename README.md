@@ -1,9 +1,9 @@
-# Universal-Windows-Plateform-calculator-UMP 
+<h1 align="center";>Universal-Windows-Plateform-calculator-UMP </h1>
  `Date: 11-30-21`
  
-**This is a basic calculator build in Universal Windows plateform application under the framwork of ASP.Net**
+**This is a basic calculator build in Universal Windows plateform under the .NET framwork. UWP is also known as Windows 10 UWP application. This application does not run on previous versions of Windows but will only run on future version of Windows**
 
-*if you want this project you just neend to clone it*
+*if you want this project you just need to clone it*
 
 ### how to clone a project 
 
@@ -12,11 +12,11 @@
 3. open the command promnt from that directory
 4. type the command " git clone [paste the copied link] " and press enter 
 5. once your project is downloaded you can now open in your visual studio. 
-6. that's it Enjoy🙂
+6. that's it. Enjoy🙂
 
 ## Calculator UI
 
-<h3 style=" text-align:center;">Addition function is performed below</h3>
+<h3 align="center">Addition function is performed below</h3>
 
 <img src="https://raw.githubusercontent.com/imUmer/Universal-Windows-Plateform-calculator-UMP/root/assets/1.png"></img>
 <img src="https://raw.githubusercontent.com/imUmer/Universal-Windows-Plateform-calculator-UMP/root/assets/2.png"></img>
